@@ -8,5 +8,6 @@
 
 Если требуется изменение дизайна, чтобы адаптировать его для какого-либо другого телефона - добавляйте скриншот вашего экрана сообщений в Issues, возможно, я - или кто-то другой - адаптирует его для Вас.
 
-Скачать приложение можно по следующей ссылке:
+Скачать приложение можно на странице codemagic билда (app.apk для андроид):
+
 [![Codemagic build status](https://api.codemagic.io/apps/5eb4e3b4bfb8fa93fc4c73de/5eb4e3b4bfb8fa93fc4c73dd/status_badge.svg)](https://codemagic.io/apps/5eb4e3b4bfb8fa93fc4c73de/5eb4e3b4bfb8fa93fc4c73dd/latest_build)
